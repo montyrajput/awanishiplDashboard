@@ -66,3 +66,18 @@
     margin-top: 32px;
   }
 }
+
+.btn {
+  background-color: #1e293b;
+  color: rgb(255, 255, 255);
+  width: 210px;
+  height: 40px;
+  margin-bottom: 20px;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  border-width: 2px solid white;
+  border-radius: 10px;
+  border-color: yellowgreen;
+  margin-left: 40px;
+}
